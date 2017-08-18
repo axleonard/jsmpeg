@@ -252,3 +252,5 @@ return Player;
 
 })();
 
+
+module.exports = JSMpeg.Player;
